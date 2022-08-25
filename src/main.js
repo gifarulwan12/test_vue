@@ -7,7 +7,7 @@ import VueAxios from 'vue-axios'
 import './index.css'
 import VueSweetalert2 from 'vue-sweetalert2';
 // If you don't need the styles, do not connect
-//test update
+// test update dev
 import 'sweetalert2/dist/sweetalert2.min.css';
 
 Vue.use(VueAxios, axios)
